@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange-text{
+    color: rgba(255, 105, 5, 0.932);
+}
+
+a{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 10px 20px 10px;
+    border-radius: 20px;
+    color: antiquewhite;
+    margin-top: 50px;
+}
