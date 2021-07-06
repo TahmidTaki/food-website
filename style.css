@@ -10,7 +10,7 @@ p h1{
     text-align: justify;
 }
 
-a{
+.button-link{
     text-decoration: none;
     background-image: linear-gradient(orange,red);
     padding: 10px 20px 10px;
@@ -66,8 +66,9 @@ a{
     padding-left: 30%;
     padding-right: 30%;
     width: 40%;
-    text-align: justify;
+    text-align: center;
 }
+
 
 .third-box-no-border{
     width: 30%;
@@ -90,4 +91,19 @@ a{
 footer{
     padding-bottom: 50px;
     padding-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline-block;
+    background-color: turquoise;
+}
+.header-link{
+    background-color: turquoise;
+    text-decoration: none;
+    padding:10px;
 }
