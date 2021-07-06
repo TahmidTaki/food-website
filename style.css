@@ -59,6 +59,7 @@ a{
 .third-box img{
     height: 200px;
     width: 200px;
+    padding-left: 25%;
 }
 
 .third-middle{
