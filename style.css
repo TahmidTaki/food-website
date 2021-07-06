@@ -26,12 +26,14 @@ a{
 
 .flexible{
     display: flex;
+    margin-bottom: 30px;
 }
 
 .second-section{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-position: auto;
+    
 }
 
 .half-protion{
@@ -82,4 +84,9 @@ a{
 .black-bg{
     background-color: black;
     color: wheat;
+}
+
+footer{
+    padding-bottom: 50px;
+    padding-top: 20px;
 }
