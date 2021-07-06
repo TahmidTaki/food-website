@@ -33,7 +33,7 @@ a{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
     background-position: auto;
-    
+    width: 100%;
 }
 
 .half-protion{
