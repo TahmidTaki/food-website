@@ -32,7 +32,7 @@ a{
 .second-section{
     background-image: url(images/7.png);
     background-repeat: no-repeat;
-    background-position: auto;
+    background-position: 100%;
     width: 100%;
 }
 
